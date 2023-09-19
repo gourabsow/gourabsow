@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gourabsow
 - 👀 I’m interested in Web Devlopement.
-- 🌱 I’m currently learning B.Tech.
-- 📫 How to reach me ...
+- 🌱 I’m currently learning B.Tech in Computer Science & Engineering.
 
 <!---
 gourabsow/gourabsow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
